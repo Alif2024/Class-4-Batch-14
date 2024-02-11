@@ -1,0 +1,9 @@
+
+
+git clone link  -----
+
+git add.
+
+git push
+
+git commit m-"jdkkkk"
